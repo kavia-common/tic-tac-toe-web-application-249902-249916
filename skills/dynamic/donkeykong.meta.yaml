@@ -1,0 +1,5 @@
+name: donkeykong
+description: A dynamic skill entry named donkeykong.
+version: 1.0.0
+type: dynamic
+enabled: true

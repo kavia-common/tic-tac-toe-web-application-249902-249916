@@ -1,0 +1,4 @@
+donkeykong
+
+This is a dynamic skill named "donkeykong".
+It mirrors the structure of other dynamic skills by pairing a .meta.yaml file with a .txt content file.
